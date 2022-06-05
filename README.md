@@ -1,7 +1,7 @@
 <h2 align="centre">KIGO Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4c0f3f6c07b82eda1cee0.jpg">
+  <img src="https://github.com/Vaathiboy/RaiChu-music/edit/main/README.md">
 </p>
 
 <h3>Requirements 📝</h3>
