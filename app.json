@@ -32,7 +32,7 @@
             "required": false
         },
         "ASSISTANT_NAME": {
-            "description": "fill with the assistant username account without @",
+            "description": "fill with the assistant username account without @The_kutty",
             "required": false
         },
         "SESSION_NAME": {
@@ -46,22 +46,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "RaiChuOfficial"
+            "value": "thalapathy_vijay_fanss"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "RaiChuUpdate"
+            "value": "vaathi_music"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "RaiChuXD"
+            "value": "Vaathi_Boy"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": "RaiChuXMusic"
+            "value": "vaathi_music"
         }
     },
     "addons": [],
