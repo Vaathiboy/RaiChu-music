@@ -7,8 +7,8 @@
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/RaiChuUpdate",
-    "repository": "https://github.com/RaiChuXD/RaiChuMusic",
+    "website": "https://t.me/vaathi_music",
+    "repository": "https://github.com/Vaathiboy/RaiChu-music/edit/main/app.json",
     "success_url": "https://t.me/RaiChuXD",
     "env": {
         "API_ID": {
